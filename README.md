@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Personal
 
 You can use the [editor on GitHub](https://github.com/caishaowei0724/personal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
